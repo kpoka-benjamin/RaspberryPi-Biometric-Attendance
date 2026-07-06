@@ -86,15 +86,12 @@ RaspberryPi-Biometric-Attendance
 │
 ├── src/
 ├── images/
-├── docs/
 ├── hardware/
-├── models/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
 
----
 
 ## Installation
 
