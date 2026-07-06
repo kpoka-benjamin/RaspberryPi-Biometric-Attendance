@@ -142,7 +142,9 @@ python src/main.py
 
 ### System Architecture
 
-(Add architecture diagram here)
+<p align="center">
+<img src="Systeme Archi.png" width="800">
+</p>
 
 ---
 
