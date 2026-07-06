@@ -149,7 +149,7 @@ python src/main.py
 
 ### Demo
 
-[▶ Voir la démonstration vidéo](Video.mp4)
+[▶ Demonstration](Video.mp4)
 ---
 
 ## Security Notice
