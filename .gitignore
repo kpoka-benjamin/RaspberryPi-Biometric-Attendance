@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+models/encodings.pickle
+models/fingerprint_ids.pkl
+
+.vscode/
+.idea/
