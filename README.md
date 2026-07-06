@@ -146,6 +146,10 @@ python src/main.py
 <img src="Systeme Archi.png" width="800">
 </p>
 
+
+### Demo
+
+[▶ Voir la démonstration vidéo](Video.mp4)
 ---
 
 ## Security Notice
