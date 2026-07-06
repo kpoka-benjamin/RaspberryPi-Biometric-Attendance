@@ -10,7 +10,9 @@
 ---
 
 ## Overview
-
+<p align="center">
+<img src="Prototype.jpg" width="800">
+</p>
 RaspberryPi-Biometric-Attendance is a smart attendance management system designed for classrooms and laboratories.
 
 The system combines **face recognition**, **fingerprint authentication**, and **infrared motion detection** to securely identify users before granting access and automatically recording attendance.
@@ -126,13 +128,17 @@ python src/main.py
 
 ## Project Images
 
-### Prototype
+### Inside View — Hardware Assembly
 
-(Add prototype image here)
+<p align="center">
+<img src="Prototype_Testing.jpg" width="800">
+</p>
 
 ### Wiring
 
-(Add wiring diagram here)
+<p align="center">
+<img src="Wiring.jpg" width="800" height="1000">
+</p>
 
 ### System Architecture
 
