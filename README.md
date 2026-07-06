@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4-red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 
 ---
