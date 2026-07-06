@@ -1,10 +1,29 @@
+# Environment variables
 .env
-__pycache__/
-*.pyc
-*.pyo
 
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Raspberry Pi biometric data
 models/encodings.pickle
 models/fingerprint_ids.pkl
 
-.vscode/
-.idea/
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
