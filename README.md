@@ -99,7 +99,7 @@ RaspberryPi-Biometric-Attendance
 Clone the repository
 
 ```bash
-git clone https://github.com/Benji-Embedded/RaspberryPi-Biometric-Attendance.git
+https://github.com/kpoka-benjamin/RaspberryPi-Biometric-Attendance.git
 ```
 
 Install dependencies
